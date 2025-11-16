@@ -1,6 +1,0 @@
-services:
-  - name: my-docker-service
-    type: web
-    runtime: docker
-    dockerfilePath: ./Dockerfile
-    plan: starter
